@@ -10,7 +10,7 @@
 
 ## Aqui estão alguns dos meus bagdes:
 
-![Graduado da AWS Academy - AWS Academy Cloud Operations](https://www.credly.com/badges/333e32ec-9d7e-4cd2-8659-dff6162e59a1/public_url)
+![Graduado da AWS Academy - AWS Academy Cloud Operations](https://images.credly.com/size/680x680/images/fa80f3f2-0383-4d44-8c14-099e2eb3be36/image.png)](https://www.credly.com/badges/333e32ec-9d7e-4cd2-8659-dff6162e59a1/public_url)
 
 
 

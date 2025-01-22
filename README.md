@@ -3,6 +3,7 @@
 - 🔭 Hoje sou competidora da Worldskills - senai
 - 🌱 Estudando Computação em Nuvem
 - 📫 Contate-me no email: 4na.oliveira07@gmail.com
+- 💼 Meu LinkedIn: www.linkedin.com/in/ana-oliveira-3238b2332
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaoliveira07&show_icons=true&theme=tokyonight)
